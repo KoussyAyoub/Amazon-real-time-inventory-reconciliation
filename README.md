@@ -1,5 +1,5 @@
 # Amazon-real-time-inventory-reconciliation
-# Classification de produits en fonction du nombre d'articles dans un conteneur
+
 
 Ce projet vise à développer un modèle d'intelligence artificielle basé sur des réseaux neuronaux pour classifier des images de produits en fonction du nombre d'articles contenus dans un conteneur.
 
